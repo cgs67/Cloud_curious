@@ -1,2 +1,2 @@
 # Cloud_curious
-asimple repo used to test pull requests
+A simple repo used to test pull requests
